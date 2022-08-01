@@ -1,5 +1,10 @@
 # YouTube example selenium project with POM design for beginners.
 
+1- Test Design
+2- POM Design
+3- Implement Log4j for logging purposes
+4- Integration to Jenkins
+
 ## Test Steps 
 
 - Go to home page
